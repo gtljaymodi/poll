@@ -4,4 +4,4 @@ local_conf.py
 ll_theme
 .build
 db.sqlite3
-
+mysite/settings/local.py
